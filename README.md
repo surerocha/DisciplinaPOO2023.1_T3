@@ -1,24 +1,50 @@
-# DisciplinaPOO2023.1
-
-##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Listas resolvidas referente ao Trabalho  3 da disciplina de POO.
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/124884847/233846188-848bbf67-fb49-4a48-bd82-3d2552bd84c9.png" width="600px" />
+## FísicaProgramada.java
+<div align = "center">
+<img src = "https://github.com/sophimoura/Projeto-Fisica-Programada/assets/124884847/0266bf54-a289-4b4b-9af1-1da05baf116b" />
+  
 </div>
 
-##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Realizado por:
-- Sophia Araújo Ferreira Moura.
-- Sure Rocha Bezera.
+<h3 align = "center">
 
-##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Turma: 
-P3 de Informática. 
+</h3><br>
 
-##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Professor: 
-Roger Moura Sarmento.
+## 🔐Sobre: 
+<h3>
+O principal objetivo do nosso projeto é realizar cálculos relacionados a física de maneira prática, intuitiva e objetiva. Ao fornecer ao usuário as informações desejadas, nosso software permite que haja economia de tempo e prevenção erros comuns de cálculo.
+</h3>
 
-##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Data de entrega: 
-25/04/2023.
+## ♟️Detalhes:
+* [x] Calculadora de Velocidade Média;
+* [x] Conversor de Temperatura;
+* [x] Conversor do peso em outros astros;
 
-##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Lingaugem utilizada:
-Java. 
+## 👩‍💻Linguagens:
 
+* ### Java (Swing)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+## ⚙️ Ferramentas Utilizadas:
+
+* ### Netbeans IDE
+  ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+* ### PostgreeSQL
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+* ### Canva
+* ### Lucidchart
+
+## 📉Fluxograma:
+
+<div align = "center">
+  <img src = "https://github.com/sophimoura/Projeto-Fisica-Programada/assets/124884847/27d4fbce-c13c-45db-a92a-abea40f863fe" />
+</div>
+
+## 📉Diagrama:
+<div align = "center">
+  <img src = "https://github.com/isabellybarbosac/ProjetoFinalJava_POO2023.1/assets/125043792/1d14e7bf-a0d6-4449-b8fa-7d0bdbc711d0"
+  />
+</div>
+
+## 🤝Estou trabalhando com :
+* [Sure Rocha Bezerra ](https://github.com/surerocha)
+* [Isabelly Barbosa Cordeiro ](https://github.com/isabellybarbosac) 
+* [Thayná Nascimento Albano da Silva](https://github.com/thaynaxt)
